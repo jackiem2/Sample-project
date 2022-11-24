@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    padding: 20px 35px;
+    background-color: purple;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: pink;
+    margin: 0;
+    display: inline;
+}
